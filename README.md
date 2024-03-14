@@ -29,6 +29,6 @@ Activation Functions : ReLU,Sigmoid,Tanh,ELU,GELU,SELU,Swish,Mish,SMish
 
 - Can modify input dataset images size other than default 75x75 (might require big amounts of processing power)
 - Hyperparameters can be tuned in the first lines of autopilot.py for experimentation or better performance
-- For loop for autorun may require big amounts of resources. In such case reduce for loops
+- For loop for autorun may require big amounts of resources. In such case reduce for loops or run each for loop separately
 - processes.py can be modified for more activation functions (for more see https://www.tensorflow.org/api_docs/python/tf/keras/activations)
 - The results and graphs shown are from personal experiments

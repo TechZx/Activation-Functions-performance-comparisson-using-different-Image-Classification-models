@@ -23,6 +23,7 @@ Activation Functions : ReLU,Sigmoid,Tanh,ELU,GELU,SELU,Swish,Mish,SMish
 2. Install extra_keras_datasets
 3. Required python 3 (version depending on TF and CUDA Versions)
 4. Install wandb to save results and graphs
+5. Change wandb repository to the oner you created to pass the data for graph extraction (wandb is optional)
 
 # NOTES
 

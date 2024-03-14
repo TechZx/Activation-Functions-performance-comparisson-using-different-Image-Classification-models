@@ -3,6 +3,12 @@
 ##################################################################################################
 
 
+
+![preview](https://github.com/TechZx/Activation-Functions-performance-comparisson-using-different-Image-Classification-models/assets/43382759/a6d882cb-e386-4c2a-9dd1-c190de23f25a)
+
+
+
+
 # Activation-Functions-performance-comparisson-using-different-Image-Classification-Models
 The following project is to test the performance of different pretrained deep learning models while changing the activation functions of the original layers. The task is to observe any improvements in performance or training time. The performance will be tested at image classification tasks and with different datasets.  
 

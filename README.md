@@ -9,7 +9,7 @@
 
 
 
-# Activation-Functions-performance-comparisson-using-different-Image-Classification-Models
+# Activation-Functions-performance-comparison-using-different-Image-Classification-Models
 The following project is to test the performance of different pretrained deep learning models while changing the activation functions of the original layers. The task is to observe any improvements in performance or training time. The performance will be tested at image classification tasks and with different datasets.  
 
 Pretrained models : Xception,InceptionV3,DenseNet121,ResNet50V2,EfficientNetV2B0,MobileNetV2

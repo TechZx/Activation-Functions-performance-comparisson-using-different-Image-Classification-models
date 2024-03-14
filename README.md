@@ -1,0 +1,2 @@
+# Activation-Functions-performance-comparisson-using-different-Image-Classification-models
+The following project is to test the performance of different pretrained deep learning models while changing the activation functions of the original layers. The task is to observe any improvements in performance or training time. The performance will be tested at image classification tasks and with different datasets.  
